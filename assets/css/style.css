@@ -368,8 +368,30 @@ p{
     font-size: 20px;
     font-weight: 850;
     letter-spacing: 3px;
-    text-align: center;
+    text-align: center;}
 
+
+    .portimg{
+	width:250px;
+
+}
+
+.portbox{
+	position: relative;
+	padding-top: 25px;
+	display: inline-block;
+	margin:25px;
+}
+
+.portdesc{
+	position: absolute;
+	bottom: 0px;
+	background-color: blue;
+	font-family: 'Anton', sans-serif;
+	font-size: 22px;
+	color: teal;
+	width: 100%;
+	/*text-align: center;*/
 }
 
 }
